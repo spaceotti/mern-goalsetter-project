@@ -1,1 +1,16 @@
 2022-08-05	06:11:58	d9c78a6b-cde5-4f26-9768-34522728ab52	GET	/api/goals/	undefined
+2022-08-05	09:08:05	20a12e55-14d2-41b8-9a63-3293e8535d74	GET	/api/goals/	undefined
+2022-08-05	09:14:02	b080e73f-6932-4e49-9965-30ecf2d2807a	POST	/api/goals/	undefined
+2022-08-05	09:28:08	4d4b240c-a44b-47cd-9b85-8a5b65fd8e0c	PUT	/api/goals/	undefined
+2022-08-05	09:31:44	2dd2db86-bc18-449e-9532-eacff2dc0067	PUT	/api/goals/62ecc33a670c8d234126c3ea	undefined
+2022-08-05	09:31:55	8b3ee07a-17ce-4180-9064-3e1ecc765365	PUT	/api/goals/62ecc33a670c8d234126c3ea	undefined
+2022-08-05	09:39:02	581dd5e2-c150-4a41-a124-72644e15786a	PUT	/api/goals/62ecc33a670c8d234126c3ea	undefined
+2022-08-05	12:21:50	6ee18d70-e91d-43a5-a962-c423b57132d9	GET	/api/goals	undefined
+2022-08-05	12:22:24	82637151-fdaf-442c-b7b3-ec8bd25d4a15	POST	/api/goals	undefined
+2022-08-05	12:23:10	75fb3a33-9ffe-4b2e-8522-f56fd989c4fe	PUT	/api/goals/62ecef6066a25044e1e177e3	undefined
+2022-08-05	12:26:33	5f6c4438-b9ed-4815-9be6-10cd23a53c1e	POST	/api/goals	undefined
+2022-08-05	12:32:23	600cc10f-c7ed-42c8-bdff-83a7623ac4aa	DELETE	/api/goals/62ecef6066a25044e1e177e3	undefined
+2022-08-05	12:33:26	4853ab4d-3c37-4ea9-b8cf-e8a7005ea7ef	DELETE	/api/goals/62ecef6066a25044e1e177e3	undefined
+2022-08-05	12:35:44	e38e1482-939d-446b-ad44-899f199b3253	DELETE	/api/goals/62ecef6066a25044e1e177e3	undefined
+2022-08-05	12:38:05	47a479c0-c25e-4bc2-8faf-49f749cf5650	POST	/api/goals	undefined
+2022-08-05	12:38:27	e4fa08a7-89aa-45a8-9972-54836047c721	DELETE	/api/goals/62ecf30dd0d9d4607cf2bd3a	undefined
